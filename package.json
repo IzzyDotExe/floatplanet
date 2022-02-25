@@ -1,0 +1,21 @@
+{
+  "name": "floatplanet",
+  "windowtitle": "Floatplanet",
+  "version": "0.0.1",
+  "description": "A floatplane desktop application",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "floatplane"
+  ],
+  "author": "Izzydotexe",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^16.0.7"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.4.0"
+  }
+}
